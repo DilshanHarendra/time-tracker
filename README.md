@@ -1,4 +1,4 @@
-# movie-box
+# time-tracker
 
 ## Project setup
 ```
