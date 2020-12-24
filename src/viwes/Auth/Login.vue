@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto  grid place-items-center ">
+  <div class="container mx-auto  grid place-items-center h-screen">
     <div class="md:w-1/4 w-11/12  bg-white shadow p-5 rounded">
       <p class="font-semibold text-lg">Login</p>
       <form action="">

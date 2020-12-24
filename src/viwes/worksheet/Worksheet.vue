@@ -1,5 +1,11 @@
 <template>
   <div class="container mx-auto   h-screen w-screen">
+    <RouterLink to="/" class="flex justify-end">
+    <span class="px-4 py-1 mt-3 focus:outline-none focus:shadow-outline inline-flex items-center transition ease-in-out duration-150 rounded text-gray-600 hover:bg-opacity-75 border   dark:border-black-300 hover:border-blue-500   bg-gray-50 dark:bg-black-600 dark:text-white  dark:hover:text-white">
+         Clock Out
+    </span>
+
+    </RouterLink>
     <div class="w-11/12  md:w-3/4 mx-auto">
       <h1 class="text-center text-3xl font-bold mt-5">My Weekly TimeSheet</h1>
       <div class="flex justify-end">
